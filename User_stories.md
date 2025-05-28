@@ -11,6 +11,7 @@ User Story：
  As a customer, I want to be notified when the cleaner is on the way, so that I can prepare.
 
 Title:
+Priority:
 Description: As a cleaner, I want to create and manage my schedule, so that I can avoid double bookings.
 Estimate:
 
