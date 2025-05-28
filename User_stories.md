@@ -3,6 +3,7 @@
 User story 1. 
 
 Title: Schedule Management
+
 Priority: High
 
 Description:
@@ -14,6 +15,7 @@ Effort Estimate: 2
 User story 2. 
 
 Title: Service Area Setting
+
 Priority: Medium
 
 Description:
@@ -25,6 +27,7 @@ Effort Estimate: 3
 User story 3. 
 
 Title: Task Assignment for Cleaning Companies
+
 Priority: Medium
 
 Description:
@@ -36,6 +39,7 @@ Effort Estimate: 3
 User story 4.
 
 Title: Booking Notification for Service Providers
+
 Priority: Medium
 
 Description:
@@ -51,6 +55,7 @@ Effort Estimate: 2
 User story 5. 
 
 Title: Schedule a Cleaning Appointment
+
 Priority: Medium
 
 Description:
@@ -62,6 +67,7 @@ Effort Estimate: 3
 User story 6.
 
 Title: Cleaner Profile and Reviews
+
 Priority: Low
 
 Description:
@@ -72,6 +78,7 @@ Effort Estimate: 2
 User story 7.
 
 Title: Cleaner Arrival Notification
+
 Priority: Low
 
 Description:
