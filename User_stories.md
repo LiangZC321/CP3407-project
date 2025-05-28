@@ -1,4 +1,5 @@
 ***Service Providers ：
+
 1. Title: Schedule Management
 User Story:
 As a cleaner, I want to create and manage my schedule, so that I can avoid double bookings.
@@ -30,6 +31,7 @@ Effort Estimate: 2
 
 
 ***Customers ：
+
 5. Title: Schedule a Cleaning Appointment
 User Story:
 As a user, I want to schedule a cleaning appointment, so that I can have my home cleaned at my convenience.
