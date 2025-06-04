@@ -37,8 +37,21 @@ Checklist/TODOs:
 * Must have more user stories than fits into iterations 1 and 2. To practice the priority.
 * [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
 * ...
+### Iteration 1 Goals
 
-Total: YY days
+- [ ] **User Story 2** - Priority: High    - Estimate: 3 days  
+- [ ] **User Story 4** - Priority: Medium  - Estimate: 2 days  
+- [ ] **User Story 5** - Priority: High     - Estimate: 3 day
+- [ ] **User Story 6** - Priority: High     - Estimate: 2 day
+
+**Total Estimate**: 10 days (adjust based on team capacity)
+
+Total: 10 days
+
+
+
+
+
 
 
 ## Iteration 1 [duration 3-4 weeks], add your start and end dates 
