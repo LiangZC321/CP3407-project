@@ -12,6 +12,11 @@ The following is the list of items, which are required to be completed.
 # Project name: TidyGo
 # Project Overview: TidyGo is an app for house cleaning which services for cleaner and user  
 # Project Goal: create an easy and simple app for the cleaner and the user  
+1.The primary goal of TidyGo is to develop a simple, intuitive, and accessible app that caters to both cleaners and users. 
+2.For cleaners, the app should offer tools for job management, scheduling, and income tracking. 
+3.For users, it should provide a seamless experience to browse services, book appointments, and manage their cleaning history. Ultimately, the goal is to improve user satisfaction, service efficiency, and trust between the two parties.
+
+
 # Team Role: 
 
 ## How to submit [You may delete this before submitting]
