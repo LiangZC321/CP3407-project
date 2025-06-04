@@ -46,7 +46,7 @@ Checklist/TODOs:
 
 **Total Estimate**: 10 days (adjust based on team capacity)
 
-Total: 10 days
+
 
 
 
