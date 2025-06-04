@@ -8,6 +8,12 @@ How to edit this: test-2025
 This a project assignment template for CP3407. 
 The following is the list of items, which are required to be completed.
 
+# Pratical Class A, Group 9 ( Yuhao Guo, Huayu Zhong, Zhicheng Liang, Chia Chang Hsu)
+# Project name: TidyGo
+# Project Overview: TidyGo is an app for house cleaning which services for cleaner and user  
+# Project Goal: create an easy and simple app for the cleaner and the user  
+# Team Role: 
+
 ## How to submit [You may delete this before submitting]
 
 2. Add your instructor (JCU-Australia: jc138691@gmail.com Dmitry Konovalov) as a team member to view your project on github
@@ -16,11 +22,11 @@ The following is the list of items, which are required to be completed.
 
 ## Team
 
-It is recommended to complete this assignment in a group of 2-4 students.
-1.Yuhao Guo
-2.Huayu Zhong
-3.Zhicheng Liang
-4.Chia Chang Hsu
+It is recommended to complete this assignment in a group of 2-4 students.  
+1.Yuhao Guo  
+2.Huayu Zhong  
+3.Zhicheng Liang  
+4.Chia Chang Hsu  
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
