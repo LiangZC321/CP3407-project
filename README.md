@@ -8,15 +8,15 @@ How to edit this: test-2025
 This a project assignment template for CP3407. 
 The following is the list of items, which are required to be completed.
 
-# Pratical Class A, Group 9 ( Yuhao Guo, Huayu Zhong, Zhicheng Liang, Chia Chang Hsu)
-# Project name: TidyGo
-# Project Overview: TidyGo is an app for house cleaning which services for cleaner and user  
-A mobile site designed to provide efficient and convenient house cleaning services. 
-The platform connects two main user groups: customers, who require reliable and timely cleaning services, and cleaners, who are looking for job opportunities with flexible scheduling.
-# Project Goal: create an easy and simple app for the cleaner and the user  
-1.The primary goal of TidyGo is to develop a simple, intuitive, and accessible app that caters to both cleaners and users. 
-2.For cleaners, the app should offer tools for job management, scheduling, and income tracking. 
-3.For users, it should provide a seamless experience to browse services, book appointments, and manage their cleaning history. Ultimately, the goal is to improve user satisfaction, service efficiency, and trust between the two parties.
+### Pratical Class A, Group 9 ( Yuhao Guo, Huayu Zhong, Zhicheng Liang, Chia Chang Hsu)
+### Project name: TidyGo
+### Project Overview: TidyGo is an app for house cleaning which services for cleaner and user   
+A mobile site designed to provide efficient and convenient house cleaning services.   
+The platform connects two main user groups: customers, who require reliable and timely cleaning services, and cleaners, who are looking for job opportunities with flexible scheduling.  
+### Project Goal: create an easy and simple app for the cleaner and the user  
+1. The primary goal of TidyGo is to develop a simple, intuitive, and accessible app that caters to both cleaners and users.   
+2. For cleaners, the app should offer tools for job management, scheduling, and income tracking.   
+3. For users, it should provide a seamless experience to browse services, book appointments, and manage their cleaning history. Ultimately, the goal is to improve user satisfaction, service efficiency, and trust between the two parties.  
 
 
 # Team Role: 
