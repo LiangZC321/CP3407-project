@@ -18,7 +18,7 @@ User stories or tasks (see chapter 4):
 4.Cleaner Profile and Reviews, priority Low, 2 days
 
 In progress:
-* Task-2 (developer name or initials), date started
+* Task-2 (all members), date started: 11/06/2025
 * ...
 
 Completed:
