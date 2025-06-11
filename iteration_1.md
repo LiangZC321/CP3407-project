@@ -9,8 +9,13 @@ Checklist:
 * Total estimated amount of work: YY days
 
 User stories or tasks (see chapter 4):
-1. [user story or task title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+1.Service Area Setting, priority Medium, 3 days
+
+2.Booking Notification for Service Providers, priority Medium, 2 days
+
+3.Schedule a Cleaning Appointment, priority Medium, 3 days
+
+4.Cleaner Profile and Reviews, priority Low, 2 days
 
 In progress:
 * Task-2 (developer name or initials), date started
