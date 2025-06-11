@@ -31,4 +31,13 @@ Update this at least once per week
 * 2 weeks left, xx days
 * 1 weeks left, xx days
 * 0 weeks left, xx days
-* Actual Velocity: ?? 
+* Actual Velocity: ??
+
+* Day 0: ██████████ (10)
+Day 1: █████████░ (9)
+Day 2: ███████░░░ (7)
+Day 3: ██████░░░░ (6)
+Day 4: ████░░░░░░ (4)
+Day 5: ██░░░░░░░░ (2)
+Day 6: ░░░░░░░░░░ (0)
+
