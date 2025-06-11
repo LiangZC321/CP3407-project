@@ -30,10 +30,9 @@ The platform connects two main user groups: customers, who require reliable and 
 ## Team
 
 It is recommended to complete this assignment in a group of 2-4 students.  
-1.Yuhao Guo  
-2.Huayu Zhong  
-3.Zhicheng Liang  
-4.Chia Chang Hsu  
+1.Zhicheng Liang
+2.Huayu Zhong
+3.Chia Chang Hsu  
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
