@@ -5,8 +5,8 @@ Checklist:
 2. User stories are correct: see p39
 
 * Assumed Velocity: ?? 
-* Number of developers: ??
-* Total estimated amount of work: YY days
+* Number of developers: 3
+* Total estimated amount of work: 10 days
 
 User stories or tasks (see chapter 4):
 1.Service Area Setting, priority Medium, 3 days
