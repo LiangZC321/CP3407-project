@@ -9,7 +9,7 @@ Checklist:
 * Total estimated amount of work: 10 days
 
 User stories or tasks (see chapter 4):
-1.Service Area Setting, priority Medium, 3 days
+1.Language Change Option, priority Medium, 3 days
 
 2.Booking Notification for Service Providers, priority Medium, 2 days
 
