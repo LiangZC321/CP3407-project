@@ -12,14 +12,15 @@ As a cleaner, I want to create and manage my schedule, so that I can avoid doubl
 Effort Estimate: 2 days
 
 
-User story 2. 
+User Story 2.
 
-Title: Service Area Setting
+Title: Language Change Option for Minor Language Users
 
 Priority: Medium
 
 Description:
-As a cleaner, I want to set my service area, so that I only receive bookings near me.The app should allow cleaners to define a service area using postal codes, distance radius, or map selection. Bookings from clients outside this area should be filtered out or flagged.
+As a user from a minor language-speaking country, I want to change the app’s language to my preferred language, so that I can navigate and use the app more easily.
+The app should allow users to select their preferred language, including support for less common languages. Once selected, all interface text should be translated accordingly. Users should be able to change this setting at any time.
 
 Effort Estimate: 3 days
 
