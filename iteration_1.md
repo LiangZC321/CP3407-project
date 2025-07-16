@@ -27,17 +27,16 @@ Completed:
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
-* 4 weeks left, xx days of estimated amount of work 
-* 2 weeks left, xx days
-* 1 weeks left, xx days
-* 0 weeks left, xx days
-* Actual Velocity: ??
+* 4 weeks left, 10 days of estimated amount of work 
+* 2 weeks left, 6 days
+* 1 weeks left, 2 days
+* 0 weeks left, 0 days
+* Actual Velocity: 10
 
 * Day 0: ██████████ (10)  
-Day 1: █████████░ (9)  
-Day 2: ███████░░░ (7)  
-Day 3: ██████░░░░ (6)  
-Day 4: ████░░░░░░ (4)  
-Day 5: ██░░░░░░░░ (2)  
-Day 6: ░░░░░░░░░░ (0)  
+Day 1: ███████░░░ (7)  
+Day 2: ██████░░░░ (6)  
+Day 3: ████░░░░░░ (3)  
+Day 4: ██░░░░░░░░ (2)  
+Day 5: ░░░░░░░░░░ (0)  
 
