@@ -69,7 +69,7 @@ User story 6.
 
 Title: Cleaner Profile and Reviews
 
-Priority: tools purchasing
+Priority: Medium
 
 Description:
 I want to request cleaning tools when scheduling a cleaning appointment So that I don’t have to prepare or own the necessary equipment myself
@@ -86,5 +86,6 @@ Description:
 I want to log in to the website and view the status of my cleaning service bookings So that I can track whether my appointment is confirmed, in progress, or completed
 
 Effort Estimate: 3 days
+
 
 
