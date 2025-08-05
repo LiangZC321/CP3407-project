@@ -12,7 +12,7 @@ User stories or tasks (see chapter 4):
 Task 1.Language Change Option (US 2), priority Medium, 3 days  
 Task 2.Booking Notification for Service Providers (US 4), priority Medium, 2 days  
 Task 3.Schedule a Cleaning Appointment (US 5), priority Medium, 3 days  
-Task 4.Cleaner Profile and Reviews (US 6), priority Low, 2 days
+Task 4.cleaning equipment purchase (US 6), priority Low, 2 days
 
 In progress:
 * None
