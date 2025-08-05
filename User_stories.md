@@ -67,7 +67,7 @@ Effort Estimate: 3 days
 
 User story 6.
 
-Title: Cleaner Profile and Reviews
+Title: Cleaning items
 
 Priority: Medium
 
@@ -86,6 +86,7 @@ Description:
 I want to log in to the website and view the status of my cleaning service bookings So that I can track whether my appointment is confirmed, in progress, or completed
 
 Effort Estimate: 3 days
+
 
 
 
