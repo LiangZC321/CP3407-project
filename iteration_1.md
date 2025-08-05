@@ -4,39 +4,32 @@ Checklist:
 1. github entry timestamps
 2. User stories are correct: see p39
 
-* Assumed Velocity: ?? 
+* Assumed Velocity: 10
 * Number of developers: 3
 * Total estimated amount of work: 10 days
 
-User stories or tasks (see chapter 4):
-1.Language Change Option, priority Medium, 3 days
-
-2.Booking Notification for Service Providers, priority Medium, 2 days
-
-3.Schedule a Cleaning Appointment, priority Medium, 3 days
-
-4.Cleaner Profile and Reviews, priority Low, 2 days
+User stories or tasks (see chapter 4):  
+Task 1.Language Change Option (US 2), priority Medium, 3 days  
+Task 2.Booking Notification for Service Providers (US 4), priority Medium, 2 days  
+Task 3.Schedule a Cleaning Appointment (US 5), priority Medium, 3 days  
+Task 4.Cleaner Profile and Reviews (US 6), priority Low, 2 days
 
 In progress:
-* Task-2 (all members), date started: 11/06/2025
-* ...
+* None
 
 Completed:
-* Task-3 (developer name or initials), date completed
-* ...
+* Task 1 (Huayu Zhong), Date completed: June 15
+* Task 2 (Zhicheng Liang), Date completed: June 22
+* Task 3 (Chia Chang Hsu), Date completed: June 28
+* Task 4 (Zhicheng Liang), Date completed: June 31
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
-* 4 weeks left, 10 days of estimated amount of work 
+* 3 weeks left, 10 days of estimated amount of work 
 * 2 weeks left, 6 days
 * 1 weeks left, 2 days
 * 0 weeks left, 0 days
 * Actual Velocity: 10
 
-* Day 0: ██████████ (10)  
-Day 1: ███████░░░ (7)  
-Day 2: ██████░░░░ (6)  
-Day 3: ████░░░░░░ (3)  
-Day 4: ██░░░░░░░░ (2)  
-Day 5: ░░░░░░░░░░ (0)  
+![Burndown chart (iteration 1)](burndown chart/iteration_1_burndown_chart.png)
 
