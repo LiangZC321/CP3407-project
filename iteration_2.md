@@ -4,26 +4,29 @@ Checklist:
 1. github entry timestamps
 2. User stories are correct: see p39
 
-* Assumed Velocity FROM iteration-1: ?? 
-* Number of developers: ??
-* Total estimated amount of work: YY days
+* Assumed Velocity FROM iteration-1: 10 
+* Number of developers: 3
+* Total estimated amount of work: 8 days
 
-User stories or tasks (see chapter 4):
-1. [user story or task title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+User stories or tasks (see chapter 4):  
+Task 1.  Schedule Management (US 1), priority High, 2 days  
+Task 2.  Task Assignment for Cleaning Companies (US 3), priority Medium, 3 days  
+Task 3.  Cleaner Arrival Notification (US 7), priority Low, 3 days
 
 In progress:
-* Task-2 (developer name or initials), date started
-* ...
+* none
 
 Completed:
-* Task-3 (developer name or initials), date completed
-* ...
+* Task 1 (Huayu Zhong, Zhicheng Liang), date completed: July 10
+* Task 2 (Chia Chang Hsu, Huayu Zhong), date completed: July 18
+* Task 3 (Zhicheng Liang), date completed: July 29
 
 ### Burn Down for iteration-2 (see chapter 4):
 Update this at least once per week
-* 4 weeks left, xx days of estimated amount of work 
-* 2 weeks left, xx days
-* 1 weeks left, xx days
-* 0 weeks left, xx days
-* Actual Velocity: ?? 
+* 3 weeks left, 8 days of estimated amount of work 
+* 2 weeks left, 6 days
+* 1 weeks left, 3 days
+* 0 weeks left, 0 days
+* Actual Velocity: 8 
+
+![Burndown chart (iteration 2)](burndownchart/iteration_2_burndown_chart.png)
