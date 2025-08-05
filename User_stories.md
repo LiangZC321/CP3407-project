@@ -83,6 +83,7 @@ Title: Cleaner Arrival Notification
 Priority: Low
 
 Description:
-As a customer, I want to be notified when the cleaner is on the way, so that I can prepare.Cleaners can tap a “start travel” or “on the way” button. The system then sends a real-time notification to the customer with the estimated arrival time, optionally including a live map location.
+I want to log in to the website and view the status of my cleaning service bookings So that I can track whether my appointment is confirmed, in progress, or completed
 
 Effort Estimate: 3 days
+
