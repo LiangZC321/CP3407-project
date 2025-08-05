@@ -31,5 +31,5 @@ Update this at least once per week
 * 0 weeks left, 0 days
 * Actual Velocity: 10
 
-![Burndown chart (iteration 1)](/main/burndownchart/iteration_1_burndown_chart.png)
+![Burndown chart (iteration 1)](burndownchart/iteration_1_burndown_chart.png)
 
