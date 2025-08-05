@@ -69,10 +69,10 @@ User story 6.
 
 Title: Cleaner Profile and Reviews
 
-Priority: Low
+Priority: tools purchasing
 
 Description:
-As a customer, I want to view a cleaner’s profile and reviews, so that I can choose someone trustworthy.Each cleaner should have a public profile with a photo, service list, certifications, previous customer reviews, and average ratings. Reviews should be submitted by verified users only.
+I want to request cleaning tools when scheduling a cleaning appointment So that I don’t have to prepare or own the necessary equipment myself
 
 Effort Estimate: 2 days
 
@@ -86,4 +86,5 @@ Description:
 I want to log in to the website and view the status of my cleaning service bookings So that I can track whether my appointment is confirmed, in progress, or completed
 
 Effort Estimate: 3 days
+
 
