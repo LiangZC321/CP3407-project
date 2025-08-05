@@ -12,16 +12,16 @@ User stories or tasks (see chapter 4):
 Task 1.Language Change Option (US 2), priority Medium, 3 days  
 Task 2.Booking Notification for Service Providers (US 4), priority Medium, 2 days  
 Task 3.Schedule a Cleaning Appointment (US 5), priority Medium, 3 days  
-Task 4.cleaning equipment purchase (US 6), priority Low, 2 days
+Task 4.Cleaner Profile and Reviews (US 6), priority Low, 2 days
 
 In progress:
 * None
 
 Completed:
-* Task 1 (Huayu Zhong), Date completed: June 15
-* Task 2 (Zhicheng Liang), Date completed: June 22
-* Task 3 (Chia Chang Hsu), Date completed: June 28
-* Task 4 (Zhicheng Liang), Date completed: June 31
+* Task 1 (Huayu Zhong), Date completed: June 13
+* Task 2 (Zhicheng Liang, Huayu Zhong), Date completed: June 17
+* Task 3 (Chia Chang Hsu, Huayu Zhong), Date completed: June 22
+* Task 4 (Zhicheng Liang, Chia Chang Hsu), Date completed: June 26
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
