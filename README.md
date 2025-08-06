@@ -3,12 +3,9 @@ How to edit this: test-2025
 * Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
 * Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated".
 
-# cp3407-project-v2024 template [Delete or change to your team/project name before submitting]
+# cp3407- Pratical A Group 9: TidyGo
 
-This a project assignment template for CP3407. 
-The following is the list of items, which are required to be completed.
-
-### Pratical Class A, Group 9 ( Yuhao Guo, Huayu Zhong, Zhicheng Liang, Chia Chang Hsu)
+### Pratical Class A, Group 9 (Huayu Zhong, Zhicheng Liang, Chia Chang Hsu)
 ### Project name: TidyGo
 ### Project Overview: TidyGo is an app for house cleaning which services for cleaner and user   
 A mobile site designed to provide efficient and convenient house cleaning services.   
@@ -30,10 +27,9 @@ The platform connects two main user groups: customers, who require reliable and 
 ## Team
 
 It is recommended to complete this assignment in a group of 2-4 students.  
-1.Zhicheng Liang
-2.Huayu Zhong
-3.Chia Chang Hsu  
-
+1.Zhicheng Liang  
+2.Huayu Zhong  
+3.Chia Chang Hsu    
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
 Checklist/TODOs: 
