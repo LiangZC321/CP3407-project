@@ -1,6 +1,6 @@
 ***Service Providers ：
 
-User story 1. 
+# User story 1. 
 
 Title: Schedule Management
 
@@ -12,7 +12,7 @@ As a cleaner, I want to create and manage my schedule, so that I can avoid doubl
 Effort Estimate: 2 days
 
 
-User Story 2.
+# User Story 2.
 
 Title: Language Change Option for Minor Language Users
 
@@ -25,7 +25,7 @@ The app should allow users to select their preferred language, including support
 Effort Estimate: 3 days
 
 
-User story 3. 
+# User story 3. 
 
 Title: Task Assignment for Cleaning Companies
 
@@ -37,7 +37,7 @@ As a cleaning company manager, I want to assign tasks to staff, so that work is 
 Effort Estimate: 3 days
 
 
-User story 4.
+# User story 4.
 
 Title: Booking Notification for Service Providers
 
@@ -53,7 +53,7 @@ Effort Estimate: 2 days
 ***Customers ：
 
 
-User story 5. 
+# User story 5. 
 
 Title: Schedule a Cleaning Appointment
 
@@ -65,7 +65,7 @@ As a user, I want to schedule a cleaning appointment, so that I can have my home
 Effort Estimate: 3 days
 
 
-User story 6.
+# User story 6.
 
 Title: Cleaning items
 
@@ -76,7 +76,7 @@ I want to request cleaning tools when scheduling a cleaning appointment So that 
 
 Effort Estimate: 2 days
 
-User story 7.
+# User story 7.
 
 Title: Cleaner Arrival Notification
 
