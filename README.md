@@ -5,7 +5,7 @@ How to edit this: test-2025
 
 # cp3407- Pratical A Group 9: TidyGo
 
-### Pratical Class A, Group 9 (Huayu Zhong, Zhicheng Liang, Chia Chang Hsu)
+### Members: Huayu Zhong, Zhicheng Liang, Chia Chang Hsu
 ### Project name: TidyGo
 ### Project Overview: TidyGo is an app for house cleaning which services for cleaner and user   
 A mobile site designed to provide efficient and convenient house cleaning services.   
@@ -41,10 +41,10 @@ Checklist/TODOs:
 * ...
 ### Iteration 1 Goals
 
-- [ ] **User Story 2** - Priority: High    - Estimate: 3 days  
+- [ ] **User Story 2** - Priority: Medium    - Estimate: 3 days  
 - [ ] **User Story 4** - Priority: Medium  - Estimate: 2 days  
-- [ ] **User Story 5** - Priority: High     - Estimate: 3 day
-- [ ] **User Story 6** - Priority: High     - Estimate: 2 day
+- [ ] **User Story 5** - Priority: Medium     - Estimate: 3 day
+- [ ] **User Story 6** - Priority: Low     - Estimate: 2 day
 
 **Total Estimate**: 10 days (adjust based on team capacity)
 
@@ -58,28 +58,25 @@ Checklist/TODOs:
 
 ## Iteration 1 [duration 3-4 weeks], add your start and end dates 
 
-* Goal is to have 2 iterations during a trimester of teaching.
-* Update the following during each week prac session
-* During pracs, you may experiment with using other github ways of tracking changes, e.g. via pull requests.
+* Task 1.Language Change Option (US 2), priority Medium, 3 days  
+* Task 2.Booking Notification for Service Providers (US 4), priority Medium, 2 days  
+* Task 3.Schedule a Cleaning Appointment (US 5), priority Medium, 3 days  
+* Task 4.Cleaner Profile and Reviews (US 6), priority Low, 2 days
 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
-
-Total: YY days
+Total: 10 days
 
 
-### Iteration 2 [duration 3-4 weeks], add your start and end dates
-Goal is to have 2 iterations during a trimester of teaching.
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+## Iteration 2 [duration 3-4 weeks], add your start and end dates
+* Task 1.  Schedule Management (US 1), priority High, 2 days  
+* Task 2.  Task Assignment for Cleaning Companies (US 3), priority Medium, 3 days  
+* Task 3.  Cleaner Arrival Notification (US 7), priority Low, 3 days
 
-Total: YY days
+Total: 8 days
 
-### Not enough time/developers: 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+## Not enough time/developers: 
+* none
 
-Total: YY days
+Total: 0 days
 
 # Actual iterations
 1. [Iteration-1](./iteration_1.md)
