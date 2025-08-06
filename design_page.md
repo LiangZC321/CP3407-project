@@ -1,2 +1,5 @@
 ![ER Diagram](design_page/ER%20Diagram.png)  
 ![version control](design_page/version%20control.png)  
+![prototype 1](design_page/prototype_1.png)
+![prototype 2](design_page/prototype_2.png)
+![prototype 3](design_page/prototype_3.png)
