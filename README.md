@@ -48,14 +48,6 @@ Checklist/TODOs:
 
 **Total Estimate**: 10 days (adjust based on team capacity)
 
-
-
-
-
-
-
-
-
 ## Iteration 1 [duration 3-4 weeks], add your start and end dates 
 
 * Task 1.Language Change Option (US 2), priority Medium, 3 days  
@@ -65,6 +57,11 @@ Checklist/TODOs:
 
 Total: 10 days
 
+### Iteration 2 Goals
+
+- [ ] **User Story 1** - Priority: High    - Estimate: 2 days  
+- [ ] **User Story 3** - Priority: Medium  - Estimate: 3 days  
+- [ ] **User Story 7** - Priority: Low     - Estimate: 3 day
 
 ## Iteration 2 [duration 3-4 weeks], add your start and end dates
 * Task 1.  Schedule Management (US 1), priority High, 2 days  
