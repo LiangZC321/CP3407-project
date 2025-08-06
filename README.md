@@ -46,7 +46,7 @@ Checklist/TODOs:
 - [**User Story 5**](User_stories.md/#user-story-5) - Priority: Medium     - Estimate: 3 day
 - [**User Story 6**](User_stories.md/#user-story-6) - Priority: Low     - Estimate: 2 day
 
-**Total Estimate**: 10 days (adjust based on team capacity)
+**Total Estimate**: 10 days
 
 ## Iteration 1 [duration 3-4 weeks], add your start and end dates 
 
@@ -62,6 +62,8 @@ Total: 10 days
 - [**User Story 1**](User_stories.md/#user-story-1-) - Priority: High    - Estimate: 2 days  
 - [**User Story 3**](User_stories.md/#user-story-3-) - Priority: Medium  - Estimate: 3 days  
 - [**User Story 7**](User_stories.md/#user-story-7) - Priority: Low     - Estimate: 3 day
+
+**Total Estimate**: 8 days
 
 ## Iteration 2 [duration 3-4 weeks], add your start and end dates
 * Task 1.  Schedule Management (US 1), priority High, 2 days  
