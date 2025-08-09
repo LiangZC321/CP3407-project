@@ -1,0 +1,22 @@
+# Version Control Log
+
+| Date & Time | Action Taken | Description of Changes | Contributor / Account |
+|-------------|-------------|------------------------|-----------------------|
+| 2025/07/17 10:27 AM | Initial Save | Basic structure set up – homepage, navigation bar, and blank sections (About Us, Services, Contact) | Zhicheng Liang |
+| 2025/07/17 10:42 AM | User Function Page Added | Created Sign-Up page with Google / Facebook login integration and user profile display | Chia Chang Hsu |
+| 2025/07/17 10:43 AM | Service Cards Created | Home Cleaning, Office Cleaning, Pet Cleaning – added service duration, price, images, and buttons | Zhicheng Liang |
+| 2025/07/17 10:55 AM | Booking Integration | Embedded Wix Bookings module – set up calendar, link services with time slots and staff filters | Huayu Zhong |
+| 2025/07/17 11:10 AM | Multi-language Support Added | Added a language switcher (English / Español / 中文) and adjusted text content accordingly | Zhicheng Liang |
+| 2025/07/17 11:16 AM | First Public Version Published | Aligned layout, refined navigation structure, and published the site for the first time | Huayu Zhong |
+| 2025/07/17 11:45 AM | Service Page UI Refinement | Standardized font and button design across all service cards and adjusted hover effects | Huayu Zhong |
+| 2025/07/17 1:30 PM | "Staff" Page Added | Added cleaner staff profile page with admin tag, join date, and editable profile section | Chia Chang Hsu |
+| 2025/07/17 2:15 PM | Booking Flow Tested & Debugged | Checked booking flow for availability errors, and revised alert messages and layout style | Chia Chang Hsu |
+| 2025/07/17 3:00 PM | Final Release Published | Verified all features: booking, registration, multilingual support, and finalized the public release | Huayu Zhong |
+| 2025/07/21 9:45 AM | Cleaning Tools Purchase Page Added | Added a dedicated page for purchasing cleaning tools – integrated product listings, prices, and cart system | Zhicheng Liang |
+| 2025/07/22 4:20 PM | Order Tracking Page Implemented | Created an interface for users to view real-time booking and cleaning tool order statuses | Chia Chang Hsu |
+| 2025/07/24 11:05 AM | SEO Optimization | Added meta descriptions, keywords, and improved page titles for better search ranking | Huayu Zhong |
+| 2025/07/26 2:40 PM | Service Image Gallery Update | Replaced low-resolution images with high-quality ones for all services | Zhicheng Liang |
+| 2025/07/27 3:30 PM | Mobile Layout Improvements | Adjusted responsive design for booking and product pages to enhance mobile experience | Chia Chang Hsu |
+| 2025/07/29 10:50 AM | Payment Gateway Enhancement | Integrated additional payment method (Cash Payment) and optimized checkout process | Huayu Zhong |
+| 2025/07/30 5:15 PM | Customer Feedback Form | Added a feedback form after order completion to collect ratings and suggestions | Zhicheng Liang |
+| 2025/08/01 2:00 PM | Final Iteration Release | Reviewed and tested all new features (cleaning tools purchase, order tracking, mobile optimization), fixed final bugs, and published final iteration release | Chia Chang Hsu |
